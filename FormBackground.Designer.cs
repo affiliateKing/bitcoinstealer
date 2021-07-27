@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace BitcoinStealer
+namespace FreeBandZone
 {
     partial class FormBackground
     {
